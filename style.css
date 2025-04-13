@@ -17,6 +17,13 @@
     grid-template-columns: 1fr; 
     gap: 20px;
   }
+  .cart-one {
+    background-image: url('./images/bg-pattern-quotation.svg');
+    background-repeat: no-repeat;
+    background-position: top  right 40px; 
+    background-size: auto;
+  }
+  
   
   .cart-one, .cart-two, .cart-three, .cart-four, .cart-five {
     padding: 30px;
